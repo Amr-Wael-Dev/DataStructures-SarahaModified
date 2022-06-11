@@ -1,0 +1,25 @@
+﻿  contact.cpp
+  main.cpp
+D:\GitHub\Saraha Modified\Saraha Modified\main.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\main.cpp(117,31): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\main.cpp(150,27): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\main.cpp(178,39): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\main.cpp(259,35): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\main.cpp(272,43): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\main.cpp(372,27): warning C4018: '<': signed/unsigned mismatch
+  user.cpp
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(92,22): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(177,21): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(205,21): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(246,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(286,23): warning C4018: '>': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(292,23): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(299,23): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Saraha Modified\Saraha Modified\user.cpp(351,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Saraha Modified.vcxproj -> D:\GitHub\Saraha Modified\Debug\Saraha Modified.exe
